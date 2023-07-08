@@ -11,7 +11,9 @@ FuckedUP - Best way to fuck up windows without UAC (.NET way)
 <details>
 <summary>Windows 10 with FuckedUP (GUI)</summary>
 <br>
-Soon
+  
+![Win10](https://cdn.discordapp.com/attachments/1126859863658614834/1127301837603741796/PXL_20230709_010025810.gif)
+
 </details>
 <details>
 <summary>Windows XP SP4 with FuckedUP (CLI)</summary>
