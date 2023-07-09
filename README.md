@@ -1,33 +1,33 @@
 # FuckedUP
-![thumbnail](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/b773ffbf-70ba-4d1a-ae77-288149a459ac)
+![thumbnail](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/thumbnail.png)
 FuckedUP - Best way to fuck up windows without UAC (.NET way)
 # Preview for FuckedUP
 <details>
 <summary>Windows 7 with FuckedUP (GUI)</summary>
 <br>
   
-![bandicam 2023-07-09 00-48-15-481](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/929a406d-cf2e-4572-bdcc-965d8e9cf105)
+![bandicam 2023-07-09 00-48-15-481](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/bandicam%202023-07-09%2000-48-15-481.gif)
 
 </details>
 <details>
 <summary>Windows 10 with FuckedUP (GUI)</summary>
 <br>
   
-![bandicam 2023-07-09 16-35-21-362](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/cb906f95-110c-4a3f-a3dc-03c7932a9771)
+![bandicam 2023-07-09 16-35-21-362](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/bandicam%202023-07-09%2016-35-21-362.gif)
 
 </details>
 <details>
 <summary>Windows XP SP4 with FuckedUP (CLI)</summary>
 <br>
 
-![bandicam 2023-07-09 16-28-07-155](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/b782dc10-124b-4cbf-a161-e2ed472b866a)
+![bandicam 2023-07-09 16-28-07-155](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/bandicam%202023-07-09%2016-28-07-155.gif)
 
 </details>
 <details>
 <summary>Windows 2000 SP4 ExKernel with FuckedUP (CLI)</summary>
 <br>
   
-![bandicam 2023-07-09 16-31-13-471](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/01fc63b9-fb82-4c87-8df4-92edad60f159)
+![bandicam 2023-07-09 16-31-13-471](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/bandicam%202023-07-09%2016-31-13-471.gif)
 
 </details>
 
@@ -103,11 +103,11 @@ I don't have enough time for do it :(
 <summary>FuckedUP (GUI)</summary>
 <br>
 
-![image](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/56c2c185-eea1-4e3e-9750-83ff77714c9e)
+![image](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/GUI.PNG)
 
 * Stop code
 You can select stop code from lists, stop code will show in BSOD Screen
-![image](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/80a8808c-c000-4e99-b3bb-d164635842be)
+![image](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/StopLists.PNG)
 
 * Use custom stop code
 
@@ -117,13 +117,13 @@ This will work with stopcode are start with (0xC only!)
 
 Be careful about Unknown Hard Error messagebox!
 
-![image](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/0004e003-0e14-43c9-ba3c-a94c7e035526)
+![image](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/customgui.PNG)
 
 * Immediately trigger the FuckedUP action without confirmation
 
 If you checked this box, FuckedUP will bsod without asking!
 
-![image](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/a185f6ca-5926-45a3-8dcb-7ffa8b3c8558)
+![image](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/ursure.PNG)
 
 
 This message will gone after checked this box!
@@ -140,7 +140,7 @@ This option will debug about your software like Windows OS, Current .NET Framewo
 
 Please Note this option will won't sending to me, that just only show to you!
 
-![image](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/a3e8f45b-2ea7-4e93-a4e9-6a5a9494509a)
+![image](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/debug.PNG)
 
 </details>
 
@@ -148,7 +148,7 @@ Please Note this option will won't sending to me, that just only show to you!
 <summary>FuckedUP (CLI)</summary>
 <br>
   
-![image](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/0aef1a59-befc-478c-b972-0e966f63d7c1)
+![image](https://github.com/blueskychan-dev/FuckedUP/raw/main/github/cli.PNG)
 
 If you run without console args, that will look like normal but try learn about console args!
 
@@ -200,5 +200,3 @@ Thanks MEMZ creator and [peewpw](https://github.com/peewpw/) for this [Simple Co
 
 # Donate this project!
 * I don't know to make donate (global one), sadly!
-* 
-fuck u github
