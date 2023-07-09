@@ -37,6 +37,8 @@ FuckedUP - Best way to fuck up windows without UAC (.NET way)
 FuckedUP is software that allows you to BSOD windows without admin
 Which is very helpful for Windows YTPMVs/Crazy Error/Development/Testing and more!
 
+FuckedUP will work perfectly in Windows 8 or higher!
+
 * How FuckedUP Work?
 
 FuckedUP will use ntdll.dll to crash windows without admins!
