@@ -197,3 +197,6 @@ Thanks MEMZ creator and [peewpw](https://github.com/peewpw/) for this [Simple Co
 
 # Copyright Protection 
 * This code is protect by [Apache License 2.0](https://github.com/blueskychan-dev/FuckedUP/blob/main/LICENSE)
+
+# Donate this project!
+* I don't know to make donate (global one), sadly!
