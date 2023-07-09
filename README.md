@@ -1,5 +1,5 @@
 # FuckedUP
-![thumbnail](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/544ce547-14c6-4724-8518-26dbc769be2b)
+![thumbnail](https://github.com/blueskychan-dev/FuckedUP/assets/108812246/b773ffbf-70ba-4d1a-ae77-288149a459ac)
 FuckedUP - Best way to fuck up windows without UAC (.NET way)
 # Preview for FuckedUP
 <details>
