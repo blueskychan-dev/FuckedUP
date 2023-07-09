@@ -200,3 +200,5 @@ Thanks MEMZ creator and [peewpw](https://github.com/peewpw/) for this [Simple Co
 
 # Donate this project!
 * I don't know to make donate (global one), sadly!
+* 
+fuck u github
