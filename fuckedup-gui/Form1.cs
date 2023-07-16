@@ -15,7 +15,24 @@ namespace fuckedup_gui
     public partial class Form1 : Form
     {
         unsafe static uint stopCode = 0xc000021a;
-        static uint[] StopCodeList = { 0xc000021a, 0xc0000022, 0xc0000005, 0xc0000221, 0xc000026C, 0xc0000374, 0xc0000000 };
+        static uint[] StopCodeList = {
+    0xc000021a,
+    0xc0000022,
+    0xc0000005,
+    0xc0000221,
+    0xc000026C,
+    0xc0000374,
+    0xc0000142,
+    0xc0000225,
+    0xc0000234,
+    0xc000026D,
+    0xc000027B,
+    0xc0000350,
+    0xc0000415,
+    0xc0000428,
+    0xc0000602,
+    0xc0000000
+};
 
         [DllImport("ntdll.dll")]
         public static extern uint RtlAdjustPrivilege(int Privilege, bool bEnablePrivilege, bool IsThreadPrivilege, out bool PreviousValue);
@@ -73,7 +90,14 @@ namespace fuckedup_gui
         }
         public Form1()
         {
-            InitializeComponent();
+            try{
+                InitializeComponent();
+            }
+            catch
+            {
+                InitializeComponent_noicon();
+                MessageBox.Show("Due to compatibility issues between your .NET version and operating system, this program will be run in safe mode to ensure compatibility with your current software. Please note that some features may not work properly or may experience glitches, but the main features will function correctly.", "Compatibility Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
             comboBox1.SelectedIndex = 0;
             Console.WriteLine("!! IF DO YOU USE IN TERMINAL, PLEASE USE RELEASE FOR CLI !!");
         }

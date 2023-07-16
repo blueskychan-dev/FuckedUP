@@ -106,7 +106,7 @@ namespace fuckedup_gui
     "I use. (BSOD)";
             this.labelCompanyName.Text = "Company Name: blueskychan development";
             this.labelCopyright.Text = "Copyright: Copyright © blueskychan-dev 2023";
-            this.labelVersion.Text = "Version: 1.0 (First Release)";
+            this.labelVersion.Text = "Version: 1.1 (Secondly Release)";
             this.labelProductName.Text = "Product Name: FuckedUP (GUI)";
             this.Text = "About FuckedUP (GUI)";
         }
