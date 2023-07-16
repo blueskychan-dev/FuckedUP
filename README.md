@@ -90,7 +90,7 @@ I don't have enough time for do it :(
 <summary>FuckedUP (GUI)</summary>
 <br>
 
-  * Windows Vista or higher (I try with Windows XP and 2000, that got unknown crashing)
+  * Windows 2000 SP4 or higher (NT Kernel-based) is supported. However, it is recommended to use Windows Vista or a higher version when not in safe mode.
   * .NET 2.0
   * 256 MB of ram, 512 MHz Processors
   * x86 (32-Bit) Architectures
